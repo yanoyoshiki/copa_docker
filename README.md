@@ -6,9 +6,6 @@ git clone --recursive git@github.com:yanoyoshiki/copa_docker.git
 cd copa_docker/docker 
 sh build.sh
 sh run.sh
-```
--------------------
-```
 cd multiagent-particle-envs/
 pip install -e .
 cd ..
