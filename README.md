@@ -3,7 +3,7 @@
 xhost+
 cd <any path>
 git clone --recursive git@github.com:yanoyoshiki/copa_docker.git
-cd docker 
+cd copa_docker/docker 
 sh build.sh
 sh run.sh
 ```
