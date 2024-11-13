@@ -1,0 +1,3 @@
+[submodule "src/marl-copa"]
+	path = src/marl-copa
+	url = git@github.com:yanoyoshiki/marl-copa.git
